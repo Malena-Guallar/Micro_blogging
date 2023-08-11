@@ -20,9 +20,12 @@ As a group of three persons we had two weeks to create a micro blogging platform
 
 
 <br>
-![micro_blogging](https://github.com/Malena-Guallar/Micro_blogging/assets/123973678/d5ab89ba-a775-4bdc-a734-59a2d2984059)
-![Capture d’écran 2023-08-11 à 09 42 30](https://github.com/Malena-Guallar/Micro_blogging/assets/123973678/b3839b7a-fcf7-4f06-8f9f-8b291fe47ffa)
-![Capture d’écran 2023-08-11 à 09 45 12](https://github.com/Malena-Guallar/Micro_blogging/assets/123973678/f942f343-6faa-4fb3-a34a-07526633bf2f)
 
+![micro_blogging](https://github.com/Malena-Guallar/Micro_blogging/assets/123973678/916268fe-37d9-4818-9b61-8caa7cb9c5fd)
+
+
+![Capture d’écran 2023-08-11 à 09 42 30](https://github.com/Malena-Guallar/Micro_blogging/assets/123973678/a120e2c7-dc24-4642-a46e-1fcd41b05c19)
+
+![Capture d’écran 2023-08-11 à 09 45 12](https://github.com/Malena-Guallar/Micro_blogging/assets/123973678/0ed065f8-ae58-4ff2-ba70-496c1c9ec97f)
 
 <br>
